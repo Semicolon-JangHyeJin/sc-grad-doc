@@ -192,7 +192,6 @@ drop table SALARY_CLASS;
 drop table EMPLOYEE;
 drop table MATERIALS_WAREHOUSE;
 drop table PURCHASE;
-drop table PURCHASE;
 drop table SALE;
 drop table PRODUCT_WAREHOUSE;
 drop table INVENTORY_RECEIPTS;
