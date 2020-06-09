@@ -1,5 +1,6 @@
 USE semiERP;
-
+select * from EMPLOYEE;
+delete from EMPLOYEE where EID='';
 show tables;
 
 #0. DATABASE 생성 쿼리
